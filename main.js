@@ -31,7 +31,7 @@ function gotPoses(results){
 } 
 
 function draw(){
-    Image(video , 0, 0, 300, 300);
+    Image(video , 0, 0, 300, 250);
     //fill(255, 0, 0);
     //stroke(255, 0, 0);
     //circle(noseX+75, noseY+95, 20);
